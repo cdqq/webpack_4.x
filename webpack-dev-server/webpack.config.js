@@ -1,5 +1,7 @@
 const path=require('path');
 //增加一行注释1
+
+//又来了
 module.exports = {
   entry: './entry.js',
   output: {
