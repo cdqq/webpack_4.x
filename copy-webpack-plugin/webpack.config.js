@@ -1,6 +1,6 @@
 const path=require('path')
 const CopyPlugin = require('copy-webpack-plugin')
-
+//添加注释
 module.exports={
   entry: './entry.js',
   output: {
