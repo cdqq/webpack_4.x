@@ -1,4 +1,5 @@
 const path=require('path');
+//增加一行注释1
 module.exports = {
   entry: './entry.js',
   output: {
